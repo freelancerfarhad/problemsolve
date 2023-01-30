@@ -1,12 +1,12 @@
 # module 1 and assignment
 
 1) What is the Feasibility Study of the SDLC model & why is this important? ->(Qustion)
-Ans: Feasibility Study is an important step in the software Development life circle that help detarmine,
+Ans : Feasibility Study is an important step in the software Development life circle that help detarmine,
  if a proposed software project viable,practical.it is typecally conducted at the beginning of the SDLC,
  before significant resourse are invested in the project.
 
 2) Write 5 advantages of Agile methodology. -> (Qustion)
-Ans: Advantages of Agile Methodology.Example
+Ans : Advantages of Agile Methodology.Example
 1.Customer satisfaction is always the highest priority and is achieved thanks to fast and accurate delivery;
 2.The evolution is adopted at any phase of the process;
 3.A product or service is delivered at a higher frequency;
@@ -14,7 +14,7 @@ Ans: Advantages of Agile Methodology.Example
 5.Even late changes in requirements are welcomed.
 
 3) Write short notes on SDLC model phase. -> (Qustion)
-Ans: SDLC (software development life cycle) is  big-picture breakdown of all the steps involved
+Ans : short notes, SDLC (software development life cycle) is  big-picture breakdown of all the steps involved
  in software creation (planning, coding, testing, deploying, etc.).
  Companies define custom SDLCs to create a predictable,
  iterative that guides the team through all major stages of development.
