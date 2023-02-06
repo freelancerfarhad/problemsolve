@@ -8,7 +8,7 @@
 
 $tuitionFee = 20000;
 
-$totalCommission = ($tuitionFee >= 20000) ? (0.25*$tuitionFee."$ = 25%") : (($tuitionFee >= 10000) ? (0.20*$tuitionFee."$ = 20%") : (($tuitionFee >= 7000) ? (0.15*$tuitionFee." = 15% ") : "Invalid data"));
+$totalCommission = ($tuitionFee >= 20000) ? (0.25*$tuitionFee."$ = 25%") : (($tuitionFee >= 10000) ? (0.20*$tuitionFee."$ = 20%") : (($tuitionFee >= 7000) ? (0.15*$tuitionFee."$ = 15% ") : "Invalid data"));
 echo "Tuition Fee {$tuitionFee}$ and commission $totalCommission";
 
 
